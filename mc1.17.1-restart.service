@@ -1,0 +1,10 @@
+[Unit]
+Description=minecraft Server Restart Task
+
+[Service]
+Type=oneshot
+User=minecraft
+ExecStart=/opt/mc/sh/stop.sh
+
+[Install]
+WantedBy=multi-user.target
