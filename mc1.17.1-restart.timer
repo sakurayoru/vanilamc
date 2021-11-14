@@ -1,5 +1,5 @@
 [Unit]
-Description=senkamc Server Restart Schedule Task
+Description=minecraft Server Restart Schedule Task
 
 [Timer]
 OnCalendar=*-*-* 04:59:30

@@ -1,7 +1,7 @@
 #!/bin/sh
 
 USERNAME='minecraft'
-SERVICE='senkamc'
+SERVICE='minecraft1.17.1'
 SPI_PATH='/opt/mc/server/'
 NOW=$(date '+%H:%M:%S')
 
