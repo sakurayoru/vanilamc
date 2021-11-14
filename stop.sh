@@ -1,3 +1,5 @@
+#!/bin/sh
+
 USERNAME='minecraft'
 SERVICE='minecraft1.17.1'
 SPI_PATH='/opt/mc/server'
